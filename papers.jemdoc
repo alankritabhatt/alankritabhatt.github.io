@@ -1,0 +1,40 @@
+# jemdoc: menu{MENU}{papers.html}
+== Publications
+
+== Full Papers
+
+- Sharp Concentration Inequalities for the Centered Relative Entropy\n 
+with Ankit Pensia\n
+[https://arxiv.org/abs/2109.09028 arXiv:2109.09028]
+  
+- Sequential prediction under log-loss with side information\n
+with Young-Han Kim\n
+Algorithmic Learning Theory, 2021\n
+[https://arxiv.org/abs/2102.06855 pdf]
+
+- Universal Graph Compression: Stochastic Block Models\n
+with Ziao Wang, Chi Wang and Lele Wang\n
+Full version [https://arxiv.org/abs/2006.02643 arXiv:2006.02643] submitted\n
+Short version at International Symposium of Information Theory (ISIT) 2021
+
+- Information Distilling Quantizers\n
+with Bobak Nazer, Or Ordentlich and Yury Polyanskiy\n
+IEEE Trans. Inf. Theory, vol. 67, no. 4, pp. 2472--2487\n
+[https://arxiv.org/pdf/1812.03031.pdf pdf]
+== Conference Papers
+- An Efficient Method to Monitor Downlink Traffic for 4G and 5G Networks\n
+with Tae-Won Ban and Young-Han Kim\n
+2019 IEEE Global Communications Conference (GLOBECOM) [files/papers/5GGlobecom.pdf pdf]
+
+- Variations on a Theme by Liu, Cuff, and Verdu:
+The Power of Posterior Sampling\n
+with Jiun-Ting Huang, Young-Han Kim, J. Jon Ryu and Pinar Sen\n
+2018 IEEE Information Theory Workshop (ITW) [files/papers/CuffsLemmaITW.pdf pdf]
+
+- Monte Carlo Methods for Randomized Likelihood Decoding\n
+with Jiun-Ting Huang, Young-Han Kim, J. Jon Ryu and Pinar Sen\n
+2018 56th Annual Allerton Conference on Communication, Control, and Computing (Allerton) [files/papers/MCMCAllerton.pdf pdf]
+
+- Polar coding for multiple descriptions using monotone chain rules\n
+with Nadim Ghaddar and Lele Wang\n
+2017 55th Annual Allerton Conference on Communication, Control, and Computing (Allerton) [files/papers/PolarCodingAllerton.pdf pdf] 
