@@ -1,14 +1,18 @@
 # jemdoc: menu{MENU}{papers.html}
 == Publications
+- [https://arxiv.org/abs/2303.04845 Smoothed Analysis of Sequential Probability Assignment]\n
+with Nika Haghtalab and Abhishek Shetty
 
 - [https://arxiv.org/abs/2207.12382 On Confidence Sequences for Bounded Random Processes via Universal Gambling Strategies]\n
 with J. Jon Ryu 
 
 - [https://arxiv.org/abs/2202.02431 On Universal Portfolios with Continuous Side Information]\n
-with J. Jon Ryu and Young-Han Kim 
+with J. Jon Ryu and Young-Han Kim \n
+AISTATS 2023
 
 - [https://arxiv.org/abs/2202.02406 Parameter-free Online Linear Optimization with Side Information via Universal Coin Betting]\n
-with J. Jon Ryu and Young-Han Kim 
+with J. Jon Ryu and Young-Han Kim\n
+AISTATS 2022 
 
 - [https://arxiv.org/abs/2109.09028 Sharp Concentration Inequalities for the Centered Relative Entropy]\n 
 with Ankit Pensia\n
